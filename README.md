@@ -19,7 +19,6 @@ This project helps developers, writers, students, and teams easily export notes,
 
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Database:** (optional) MongoDB / PostgreSQL
 - **Markdown Parsing:** `marked.js` or `markdown-it`
 - **PDF Generation:** `html-pdf` or `puppeteer`
 
