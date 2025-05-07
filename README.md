@@ -54,7 +54,8 @@ Run the React frontend
     ```bash
 
       cd client
-      npm start
+      npm start!
+
 🛠 Usage
 Open the app in your browser (http://localhost:3000).
 
@@ -63,3 +64,6 @@ Paste or upload your Markdown content.
 Preview the formatted Markdown in real time.
 
 Click the Export to PDF button to download your document.
+
+![Screenshot 2025-05-07 195541](https://github.com/user-attachments/assets/07cfe74b-5231-4c9a-ab94-69bb1f0d4f80)
+
